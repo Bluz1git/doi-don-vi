@@ -3,7 +3,9 @@
 Đây là chiếc tool đổi đơn vị đo lường của Mỹ sang đơn vị Việt Nam.
 
 **Nó làm được gì?**
+
 **Cân nặng:** Đổi từ Pounds (lbs) sang Kg.
+
 **Chiều cao:** Đổi Inch/Ft sang Mét.
 
 ---
@@ -13,5 +15,7 @@
 This is a tool to convert US measurement units to Vietnamese units.
 
 **What does it do?**
+
 **Weight:** Convert from Pounds (lbs) to Kg.
+
 **Height:** Convert Inch/Ft to Meters.
