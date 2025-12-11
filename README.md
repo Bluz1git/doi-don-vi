@@ -8,6 +8,7 @@
 
 **Chiều cao:** Đổi Inch/Ft sang Mét.
 
+Cách dùng: Tải file exe và chạy.
 ---
 
 ## US Unit Converter
@@ -19,3 +20,5 @@ This is a tool to convert US measurement units to Vietnamese units.
 **Weight:** Convert from Pounds (lbs) to Kg.
 
 **Height:** Convert Inch/Ft to Meters.
+
+How to use: Insatll exe file and run it.
